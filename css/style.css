@@ -64,3 +64,7 @@
 #footer > .gradient-background {
   height: 300px;
 }
+
+.text-color .li .a {
+  color: #0e0e0e !important;
+}
